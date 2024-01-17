@@ -18,5 +18,5 @@ Comandos a usar:
 cd /Users/GUZMAN.D1/Desktop/Personal/WORKSPACE_PERSONAL/React/lista-tareas-react
   npm start
 
-# Getting Started with Create React App
+
 
